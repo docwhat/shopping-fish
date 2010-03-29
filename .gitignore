@@ -1,0 +1,9 @@
+*~
+*.cache
+*.log
+*.pid
+/tmp/*
+.DS_Store
+/doc/
+/db/*.sqlite3
+# EOF
