@@ -1,0 +1,27 @@
+Shopping Fish
+==========
+
+Stories
+----------
+
+# Adding a new item #
+
+Robin wants to add `chocolate milk` to a shopping list, but it isn't in the system anyplace.  She types in `chocolate milk` and clicks add. It is then added to the master list of items and marked as `needed`.
+
+# Marking an item as needed. #
+
+Robin searches on `milk` and is presented with a list of items.  She clicks on `chocolate milk` and it is marked as `needed`.
+
+# Marking an item when put in a cart. #
+
+Robin is shopping.  She just put some chocolate milk in her cart and wants to mark it off the shopping list.  She clicks on `chocolate milk` and it is marked as `probably gotten`.
+
+# Marking shopping items as done. #
+
+Robin has finished shopping.  She reviews the items in her list and confirms the `probably gotten` items are indeed gotten.  She clicks a button and all the `probably gotten` items are marked as `gotten/not wanted`.
+
+# Marking shopping items as not done. #
+
+Robin has aborted her shopping trip.  She left the store with none of the items on her list.  She clicks a button and all the `probably gotten` items are reverted as `needed`.
+
+
